@@ -1,0 +1,1 @@
+import{f as e,g as t,o as a}from"./chunks/framework.hlSHziAx.js";const _=JSON.parse('{"title":"Home","description":"","frontmatter":{"layout":"home","title":"Home"},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),o={name:"index.md"};function n(r,s,i,c,d,m){return a(),t("div")}const f=e(o,[["render",n]]);export{_ as __pageData,f as default};
